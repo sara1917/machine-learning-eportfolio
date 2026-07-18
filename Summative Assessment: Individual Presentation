@@ -1,0 +1,9 @@
+Summary of Individual Assignment – Comparative Intelligence and Ethics in Machine Learning Systems
+
+This assignment focused on the comparative analysis of classical machine learning and deep learning approaches for recommender systems, using the MovieLens 100K dataset. The main objective was to evaluate how different machine learning techniques perform in predicting user preferences while considering technical performance, explainability, ethical implications, and real-world deployment challenges.
+
+In this project, I implemented and compared two different models using the same dataset: a traditional machine learning approach and a deep learning-based recommender system. The analysis included data preprocessing, model development, performance evaluation, and validation using appropriate metrics such as RMSE and other recommender-system evaluation measures. The project also examined the importance of model validation in improving generalisation and reducing overfitting.
+
+A key component of the assignment was the application of Explainable AI (XAI) techniques to understand model behaviour and interpret how recommendations were generated. In addition, I critically evaluated ethical issues associated with recommender systems, including data privacy, algorithmic bias, fairness, and the potential impact of automated recommendations on users.
+
+The project also considered real-world deployment requirements, including scalability, monitoring, retraining, and the use of cloud-based machine learning platforms. Through this assignment, I developed practical skills in applying and critically evaluating machine learning methods while gaining a deeper understanding of the trade-offs between classical ML and deep learning approaches in real-world AI applications.
