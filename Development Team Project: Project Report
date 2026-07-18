@@ -1,0 +1,8 @@
+Summary of Development Team Project: Project Report
+
+
+Our team project applied machine learning techniques to the Airbnb-NYC-2019 dataset to investigate whether Airbnb can identify pricing patterns and listing segments that support hosts in setting competitive prices. Following the CRISP-DM methodology, we performed exploratory data analysis, data cleaning, feature engineering, and model development to ensure reliable analysis.
+
+We developed and compared three regression models to predict listing prices and found that the polynomial regression model achieved the best performance, explaining approximately 54% of the variation in listing prices. The analysis identified room type as the strongest pricing factor, followed by borough location, availability, and review-related features. We also implemented K-Means clustering, identifying three distinct listing segments—entire homes, private rooms, and shared rooms—which provide practical guidance for pricing and market positioning.
+
+Based on our findings, we recommended that Airbnb adopt data-driven pricing benchmarks, provide segment-specific guidance for hosts, improve the interpretation of listing availability, and explore growth opportunities in underrepresented boroughs. Overall, the project demonstrated how machine learning can support strategic decision-making in the short-term rental market while highlighting the limitations of using historical listing data without customer behaviour or seasonal information.
