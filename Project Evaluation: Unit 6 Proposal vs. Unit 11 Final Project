@@ -1,0 +1,19 @@
+Overview
+
+This section evaluates the development of my individual project from the initial proposal submitted in Unit 6 to the final implementation completed in Unit 11. It highlights how the project evolved through planning, experimentation, model development, evaluation, and critical reflection.
+
+Evaluation Aspect	Unit 6 – Initial Proposal	Unit 11 – Final Project
+Project Title	Comparative Intelligence and Ethics in Machine Learning Systems	Comparative Intelligence and Ethics in Machine Learning Systems: Classical vs Deep Recommender Systems
+Objective	To compare classical machine learning and deep learning techniques for recommender systems.	Successfully compared both approaches using the MovieLens 100K dataset and evaluated their performance, explainability, and ethical implications.
+Dataset	Planned to use the MovieLens 100K dataset.	MovieLens 100K dataset was selected, cleaned, and preprocessed before model development.
+Models	Proposed implementing one classical ML model and one deep learning model.	Both models were successfully implemented and evaluated using the same dataset.
+Methodology	Planned data preprocessing, model training, validation, and comparison.	Completed data preprocessing, model training, performance evaluation, explainability analysis, and ethical assessment.
+Evaluation	Planned to compare models using appropriate performance metrics.	Models were evaluated using recommender-system metrics and validation techniques to compare predictive performance.
+Explainability	Planned to investigate Explainable AI techniques.	Explainability methods were applied to interpret model behaviour and compare decision-making processes.
+Ethical Considerations	Intended to discuss privacy, fairness, and bias.	Conducted a critical discussion of algorithmic bias, data privacy, fairness, and responsible AI deployment.
+Deployment	Proposed discussing real-world implementation.	Evaluated deployment considerations including scalability, monitoring, and practical implementation.
+Reflection on Project Development
+
+The final project achieved the objectives outlined in the original proposal while expanding several aspects of the study. During the implementation stage, I gained a deeper understanding of recommender systems, model evaluation, explainable AI, and ethical considerations. The project evolved from a conceptual proposal into a fully implemented comparative analysis supported by experimental results and academic literature.
+
+One of the most significant developments was my improved ability to critically compare classical machine learning and deep learning approaches rather than focusing solely on prediction accuracy. This project strengthened both my technical skills and my understanding of responsible artificial intelligence practices.
